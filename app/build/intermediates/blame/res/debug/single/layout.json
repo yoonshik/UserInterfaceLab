@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yoonshik/AndroidStudioProjects/Lab4_UILabs/app/build/intermediates/res/merged/debug/layout/add_todo.xml",
+        "source": "/Users/yoonshik/AndroidStudioProjects/Lab4_UILabs/app/src/main/res/layout/add_todo.xml"
+    },
+    {
+        "merged": "/Users/yoonshik/AndroidStudioProjects/Lab4_UILabs/app/build/intermediates/res/merged/debug/layout/footer_view.xml",
+        "source": "/Users/yoonshik/AndroidStudioProjects/Lab4_UILabs/app/src/main/res/layout/footer_view.xml"
+    },
+    {
+        "merged": "/Users/yoonshik/AndroidStudioProjects/Lab4_UILabs/app/build/intermediates/res/merged/debug/layout/todo_item.xml",
+        "source": "/Users/yoonshik/AndroidStudioProjects/Lab4_UILabs/app/src/main/res/layout/todo_item.xml"
+    }
+]
